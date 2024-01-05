@@ -1,6 +1,6 @@
 # ea_4
 
-A new Flutter project.
+EA4_Stateless and Stateful Widget
 
 ## Getting Started
 
